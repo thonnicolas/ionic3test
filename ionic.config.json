@@ -1,0 +1,8 @@
+{
+  "name": "personalfianceapp",
+  "app_id": "e61f5016",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
